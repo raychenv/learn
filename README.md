@@ -13,20 +13,20 @@ This is a **_personal white-board_** where I *scribble* anything,
 - [C++](#c-1)
 - [Python](#python)
 - [Java](#java)
-- [Design Pattern](#DesignPattern)
+- [Design Pattern](#designpattern)
 
 [↑ top](#contents)
 <br><br>
 
 
-## Articles
+## <a name="articles"></a>Articles
 
 
 [↑ top](#contents)
 <br><br>
 
 
-## C++
+## <a name="c-1"></a>C++
 
 > C++ is one of the most widely used programming languages
 > in the world. Well-written C++ programs are fast and efficient.
@@ -43,7 +43,7 @@ This is a **_personal white-board_** where I *scribble* anything,
 [↑ top](#contents)
 <br><br>
 
-## Python
+## <a name="python"></a>Python
 
 Python is probably fast enough for many of what we need to do today.
 And it's relatively easy to learn and use, with rich ecosystems in
@@ -52,7 +52,7 @@ data science, web frameworks, scripting, and many others.
 [↑ top](#contents)
 <br><br>
 
-## Java
+## <a name="java"></a>Java
 
 > Java is a general-purpose computer-programming language that is concurrent, 
 > class-based, object-oriented,and specifically designed to have as few 
@@ -67,7 +67,7 @@ data science, web frameworks, scripting, and many others.
 [↑ top](#contents)
 <br><br>
 
-## Design Pattern
+## <a name="designpattern"></a>Design Pattern
 
 > In software engineering, a software design pattern is a general, reusable solution 
 > to a commonly occurring problem within a given context in software design. It is 
