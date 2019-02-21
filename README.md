@@ -60,7 +60,7 @@ data science, web frameworks, scripting, and many others.
 > code can run on all platforms that support Java without the need for 
 > recompilation. Java applications are typically compiled to bytecode that 
 > can run on any Java virtual machine (JVM) regardless of computer architecture.
-
+>
 > [Java programming language](https://en.wikipedia.org/wiki/Java_%28programming_language%29)
 
 [↑ top](#contents)
