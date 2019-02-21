@@ -1,4 +1,6 @@
-**The best way to learn is to teach what you have learned to other people.**
+From programming view of point, learning is tree traversing from overview
+or architecture of something as its root to all leaves recursively. By this
+way, we can see the full picture of the tree and its beauty inside.
 
 This is a **_personal white-board_** where I *scribble* anything,
 *organize* my code, learning experiences.
@@ -7,7 +9,7 @@ This is a **_personal white-board_** where I *scribble* anything,
 ### Contents
 
 - [Articles](#articles)
-- [C++](#c-1)
+- [C++](#c++)
 - [Python](#python)
 - [Java](#java)
 
