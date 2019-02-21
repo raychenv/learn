@@ -10,10 +10,10 @@ This is a **_personal white-board_** where I *scribble* anything,
 ### Contents
 
 - [Articles](#articles)
-- [C++](#C++)
+- [C++](#c-1)
 - [Python](#python)
 - [Java](#java)
-- [Design Pattern](#Design Pattern)
+- [Design Pattern](#DesignPattern)
 
 [↑ top](#contents)
 <br><br>
