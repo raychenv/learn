@@ -13,6 +13,7 @@ This is a **_personal white-board_** where I *scribble* anything,
 - [C++](#c++)
 - [Python](#python)
 - [Java](#java)
+- [Design pattern](#design pattern)
 
 [↑ top](#contents)
 <br><br>
