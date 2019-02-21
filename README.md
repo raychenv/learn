@@ -1,5 +1,5 @@
 From programming view of point, learning is tree traversing from overview
-or architecture of something as its root to all leaves recursively. By this
+ or architecture of something as its root to all leaves recursively. By this
 way, we can see the full picture of the tree and its beauty inside.
 
 This is a **_personal white-board_** where I *scribble* anything,
